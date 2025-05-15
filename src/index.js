@@ -2,29 +2,7 @@
 // 一种在边缘网络中连接不同思维世界的语义翻译层
 
 // API密钥池配置 - 认知的能量来源
-const ONDEMAND_APIKEYS = [
-    "fUgFHoKOlhKycfDM2zMunceVBAgGVVw0",
-"264WRYO7L7y8Pahm74gnfEieOUE98Y02",
-"NxMhCtjouQHTe6AAYy6rUcyrBeglxKge",
-"6avlygVs8vWlfC5jR5Wj3gtpSXDcWLnT",
-"qwJL5ZwEbgPUEDGAuP6Ag2pTpxrofM2O",
-"WxcIWWx5hK8TWomS3VJcNDGTZLiuBF5B",
-"T1q9ACTGuNZZMbL6jtSRheAquxKzCDJB",
-"VVPHXn9ihJXjp3KpVGYqKlJZcYW7kDpY",
-"jtf0JzG2FmWV1X8WX5nwWNUGJk9p5Gwi",
-"uWxqb6qFii3WTNUZfGlseD71KSAZpNjn",
-"pDducTLx4rMOp3T5wW75Kn7WdWWGQTU3",
-"o8xWqEK7udXy7sdpAherlKRyluD4Pb5p",
-"s8WM9BNuJ7Um865vU2I0Q0zGmNMw2Sr9",
-"hFLCJpQc9uSG7lZlIfcWoCsqquythozV",
-"E2pfbhEAriSHhGsIVSwDehktxutlIN0T",
-"aNeTKdo8nw3AhEirWMOt3gjx11eyeBQ0",
-"lR8zCi2Z2M3ubHrTRc3Xng7zaDPyD3OF",
-"B0yQv78RNB4bZkr1GfXVsKaAT3bXwTWg",
-"DPZeMSz2Kv7i8QzMfgARXIg5U9l5aBmI",
-"Qb3BGI6fyXZ2kXyp6YhYwZSFtJFAkDQK"
-
-  ];
+const ONDEMAND_APIKEYS = [""];
   const BAD_KEY_RETRY_INTERVAL = 600; // 秒
   
   // 模型映射配置 - 思维空间的坐标系
